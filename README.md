@@ -2,7 +2,8 @@
 Some Suggestions to Google Maps and the like to limit pollution:
 
 - Make cars no longer the default (depending the route cleaner options like trains, bikes, e-bikes, pedelecs, buses, walking) can be faster
-- Put more effort in getting biking and walking routes on the map (many short, but important connections miss near where I live, resulting in bike detours, or more likely taking the car
+- Put more effort in getting biking and walking routes on the map (many short, but important connections miss near where I live, resulting in bike detours, or more likely taking the car)
+- Take into account that you can save time by stepping of your bike and taking a shortcut where you are only allowed to walk
 - differentiate in bikes,The ones going faster or a lot faster are not rare anymore (speeds vary 10-45 kph nowadays)
 - Include parking (time and money) in car trips
 - Allow multi-modal; more ways of transportation in one trip

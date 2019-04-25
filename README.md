@@ -1,4 +1,4 @@
-# cleanerGoogleMaps
+# greener Maps
 Some Suggestions to Google Maps and the like to limit pollution:
 
 - Make cars no longer the default (depending the route cleaner options like trains, bikes, e-bikes, pedelecs, buses, walking) can be faster

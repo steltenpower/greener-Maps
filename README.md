@@ -1,6 +1,7 @@
 # greener Maps
-Some Suggestions to Google Maps and the like: Make self-owned cars with a chauffeur no longer the default.
+Some Suggestions to Google Maps and the like:
 
+- Make self-owned cars with a chauffeur no longer the default.
 - Put more effort in getting biking and walking routes on the map (many short important connections miss, resulting in bike detours or taking the car instead)
 - Take into account that you can save time by stepping of your bike and taking a shortcut where you are only allowed to walk
 - differentiate in bikes,The ones going faster or a lot faster are not rare anymore (speeds vary 10-45 kph nowadays)

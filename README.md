@@ -17,3 +17,5 @@ Some Suggestions to Google Maps and the like:
 Cars are very space inefficient, dirty (though electric vehicles pollute less) and more often than people think: slow (if you make an honest full comparison)
 
 https://ruudsteltenpool.blogspot.com/2023/08/zacht-op-je-omgeving-messcherp-op-de.html
+
+"10 voor school" voor gelukkige autonome kinderen en tegen vertraagde automobilisten (die komen bij school vóór de vertragende drukte van fietsers, voetgangers en kinderwagens)

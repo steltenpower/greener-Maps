@@ -1,5 +1,5 @@
 # greener Maps
-Some Suggestions to Google Maps and the like:
+Some Suggestions to Google Maps and the like (CoMaps being a good one):
 <img src="https://repository-images.githubusercontent.com/150804694/bc988800-5846-11eb-992b-b68c8bb49213">
 - Make self-owned cars with a chauffeur no longer the default (as Google Maps and the like don't take into account that often you can't park near).
 - Put more effort in getting biking and walking routes on the map (many short important connections miss, resulting in bike detours or taking the car instead)

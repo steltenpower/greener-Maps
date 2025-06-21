@@ -15,3 +15,5 @@ Some Suggestions to Google Maps and the like:
 - Make pollution levels not a somewhat hidden value
 
 Cars are very space inefficient, dirty (though electric vehicles pollute less) and more often than people think: slow (if you make an honest full comparison)
+
+https://ruudsteltenpool.blogspot.com/2023/08/zacht-op-je-omgeving-messcherp-op-de.html
